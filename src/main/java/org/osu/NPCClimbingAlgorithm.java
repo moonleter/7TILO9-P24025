@@ -1,5 +1,8 @@
 package org.osu;
 
+/**
+ * Finds the number of ways to reach a target floor and target step using 1, 2, or 3 steps or an elevator.
+ */
 public class NPCClimbingAlgorithm {
     private static final int STEPS_PER_FLOOR = 5;
 
